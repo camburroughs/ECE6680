@@ -1,0 +1,20 @@
+// LAB1 TODO LIST
+
+X-VERSION
+*1) read in image
+    a) 8 bit for greyscale
+    b) 24 bit for RGB
+2) manipulate bits into 16-bit format
+    a) 8 bit to 16 bit for greyscale
+    b) 24 bit to 16bit for RGB
+3) get X display code working
+
+WINDOWS-VERSION
+*1) read in image
+    a) 8 bit for greyscale
+    b) 24 bit for RGB
+2) manitpulate bits into
+    a) colormap for greyscale
+    b) colormap or 16-bit for rgb
+    NOTE) windows stores in BGR NOT RGB
+3) get windows display code working
